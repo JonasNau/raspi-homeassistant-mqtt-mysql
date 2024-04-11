@@ -1,0 +1,6 @@
+1712819080: mosquitto version 2.0.18 terminating
+1712819080: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712819084: mosquitto version 2.0.18 starting
+1712819084: Config loaded from /mosquitto/config/mosquitto.conf.
+1712819084: Opening ipv4 listen socket on port 1883.
+1712819084: mosquitto version 2.0.18 running
