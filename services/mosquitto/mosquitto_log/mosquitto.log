@@ -8,3 +8,58 @@
 1712819131: New client connected from 172.22.0.1:58832 as mqtt-explorer-941f5ad7 (p2, c1, k60, u'mosquitto_user').
 1712819239: New connection from 172.22.0.1:53092 on port 1883.
 1712819239: New client connected from 172.22.0.1:53092 as mqtt-explorer-73aff1f7 (p2, c1, k60, u'mosquitto_user').
+1712820251: Client mqtt-explorer-73aff1f7 closed its connection.
+1712820388: Client mqtt-explorer-941f5ad7 disconnected.
+1712820391: New connection from 172.22.0.1:39222 on port 1883.
+1712820391: New client connected from 172.22.0.1:39222 as mqtt-explorer-941f5ad7 (p2, c1, k60, u'mosquitto_user').
+1712820567: New connection from 172.22.0.1:52868 on port 1883.
+1712820567: New client connected from 172.22.0.1:52868 as DVES_ABBFD4 (p2, c1, k30, u'mosquitto_user').
+1712820884: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712822722: Client DVES_ABBFD4 has exceeded timeout, disconnecting.
+1712822787: New connection from 172.22.0.1:43774 on port 1883.
+1712822787: New client connected from 172.22.0.1:43774 as DVES_ABBFD4 (p2, c1, k30, u'mosquitto_user').
+1712822969: New connection from 172.22.0.1:58434 on port 1883.
+1712822969: New client connected from 172.22.0.1:58434 as nodered_f38fb35181447a0b (p2, c1, k60, u'mosquitto_user').
+1712823005: Client nodered_f38fb35181447a0b disconnected.
+1712823005: New connection from 172.22.0.1:42304 on port 1883.
+1712823005: New client connected from 172.22.0.1:42304 as nodered_25f999beea88e2d1 (p2, c1, k60, u'mosquitto_user').
+1712823011: Client nodered_25f999beea88e2d1 disconnected.
+1712823011: New connection from 172.22.0.1:42316 on port 1883.
+1712823011: New client connected from 172.22.0.1:42316 as nodered_80573950720759aa (p2, c1, k60, u'mosquitto_user').
+1712823150: New connection from 172.22.0.1:55136 on port 1883.
+1712823150: New client connected from 172.22.0.1:55136 as mqtt-explorer-82849ec5 (p2, c1, k60, u'mosquitto_user').
+1712823365: Client nodered_80573950720759aa disconnected.
+1712823365: New connection from 172.22.0.1:54124 on port 1883.
+1712823366: New client connected from 172.22.0.1:54124 as nodered_352a645e26a6c4c4 (p2, c1, k60, u'mosquitto_user').
+1712823601: Client nodered_352a645e26a6c4c4 disconnected.
+1712823602: New connection from 172.22.0.1:60680 on port 1883.
+1712823602: New client connected from 172.22.0.1:60680 as nodered_4440bccdaf4165d4 (p2, c1, k60, u'mosquitto_user').
+1712823763: Client nodered_4440bccdaf4165d4 disconnected.
+1712823763: New connection from 172.22.0.1:34690 on port 1883.
+1712823763: New client connected from 172.22.0.1:34690 as nodered_f0f1972e54a9f3de (p2, c1, k60, u'mosquitto_user').
+1712823767: Client nodered_f0f1972e54a9f3de disconnected.
+1712823767: New connection from 172.22.0.1:34694 on port 1883.
+1712823767: New client connected from 172.22.0.1:34694 as nodered_653c709e5b760509 (p2, c1, k60, u'mosquitto_user').
+1712823918: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712823998: Client nodered_653c709e5b760509 disconnected.
+1712823998: New connection from 172.22.0.1:38660 on port 1883.
+1712823998: New client connected from 172.22.0.1:38660 as nodered_5b9bca66adf13972 (p2, c1, k60, u'mosquitto_user').
+1712824330: New connection from 172.22.0.1:33146 on port 1883.
+1712824330: New client connected from 172.22.0.1:33146 as mqtt-explorer-73aff1f7 (p2, c1, k60, u'mosquitto_user').
+1712824651: Client nodered_5b9bca66adf13972 disconnected.
+1712824652: New connection from 172.22.0.1:50026 on port 1883.
+1712824652: New client connected from 172.22.0.1:50026 as nodered_5cf2fe6730898259 (p2, c1, k60, u'mosquitto_user').
+1712824760: Client DVES_ABBFD4 closed its connection.
+1712824766: New connection from 172.22.0.1:48626 on port 1883.
+1712824766: New client connected from 172.22.0.1:48626 as DVES_ABBFD4 (p2, c1, k30, u'mosquitto_user').
+1712824885: New connection from 172.22.0.3:49548 on port 1883.
+1712824885: New client connected from 172.22.0.3:49548 as nodered_9266e52b573310f4 (p2, c1, k60, u'mosquitto_user').
+1712824917: Client nodered_9266e52b573310f4 disconnected.
+1712824917: New connection from 172.22.0.3:44362 on port 1883.
+1712824917: New client connected from 172.22.0.3:44362 as nodered_0dba4f9354811828 (p2, c1, k60, u'mosquitto_user').
+1712824956: Client nodered_0dba4f9354811828 disconnected.
+1712824956: New connection from 172.22.0.3:53028 on port 1883.
+1712824956: New client connected from 172.22.0.3:53028 as nodered_a60337f7640f836f (p2, c1, k60, u'mosquitto_user').
+1712824983: Client mqtt-explorer-82849ec5 disconnected.
+1712824996: Client nodered_5cf2fe6730898259 disconnected.
+1712825039: Client mqtt-explorer-73aff1f7 disconnected.
