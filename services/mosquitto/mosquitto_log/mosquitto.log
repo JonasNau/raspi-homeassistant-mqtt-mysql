@@ -4,3 +4,7 @@
 1712819084: Config loaded from /mosquitto/config/mosquitto.conf.
 1712819084: Opening ipv4 listen socket on port 1883.
 1712819084: mosquitto version 2.0.18 running
+1712819131: New connection from 172.22.0.1:58832 on port 1883.
+1712819131: New client connected from 172.22.0.1:58832 as mqtt-explorer-941f5ad7 (p2, c1, k60, u'mosquitto_user').
+1712819239: New connection from 172.22.0.1:53092 on port 1883.
+1712819239: New client connected from 172.22.0.1:53092 as mqtt-explorer-73aff1f7 (p2, c1, k60, u'mosquitto_user').
