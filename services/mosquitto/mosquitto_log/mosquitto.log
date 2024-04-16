@@ -70,3 +70,71 @@
 1712830208: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1712833902: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1712835703: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713258922: mosquitto version 2.0.18 starting
+1713258922: Config loaded from /mosquitto/config/mosquitto.conf.
+1713258922: Opening ipv4 listen socket on port 1883.
+1713258922: mosquitto version 2.0.18 running
+1713259033: New connection from 192.168.188.31:63024 on port 1883.
+1713259033: New client connected from 192.168.188.31:63024 as mqtt-explorer-73aff1f7 (p2, c1, k60, u'mosquitto_user').
+1713260253: Client mqtt-explorer-73aff1f7 disconnected.
+1713260723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713261671: mosquitto version 2.0.18 terminating
+1713261671: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1713261688: mosquitto version 2.0.18 starting
+1713261688: Config loaded from /mosquitto/config/mosquitto.conf.
+1713261688: Opening ipv4 listen socket on port 1883.
+1713261688: mosquitto version 2.0.18 running
+1713262095: New connection from 192.168.188.34:55963 on port 1883.
+1713262095: New connection from 192.168.188.34:55964 on port 1883.
+1713262095: Client <unknown> disconnected due to protocol error.
+1713262096: Client <unknown> disconnected due to protocol error.
+1713262096: New connection from 192.168.188.34:55965 on port 1883.
+1713262096: Client <unknown> disconnected due to protocol error.
+1713262097: New connection from 192.168.188.34:55966 on port 1883.
+1713262097: New connection from 192.168.188.34:55967 on port 1883.
+1713262097: Client <unknown> disconnected due to protocol error.
+1713262101: Client <unknown> disconnected due to protocol error.
+1713262101: New connection from 192.168.188.34:55968 on port 1883.
+1713262101: Client <unknown> disconnected due to protocol error.
+1713262101: New connection from 192.168.188.34:55969 on port 1883.
+1713262101: Client <unknown> disconnected due to protocol error.
+1713262106: New connection from 192.168.188.34:55972 on port 1883.
+1713262106: New connection from 192.168.188.34:55973 on port 1883.
+1713262106: Client <unknown> disconnected due to protocol error.
+1713262111: Client <unknown> disconnected due to protocol error.
+1713262111: New connection from 192.168.188.34:55977 on port 1883.
+1713262111: Client <unknown> disconnected due to protocol error.
+1713262112: New connection from 192.168.188.34:55978 on port 1883.
+1713262112: New connection from 192.168.188.34:55979 on port 1883.
+1713262112: Client <unknown> disconnected due to protocol error.
+1713262113: Client <unknown> disconnected due to protocol error.
+1713262113: New connection from 192.168.188.34:55980 on port 1883.
+1713262113: Client <unknown> disconnected due to protocol error.
+1713262113: New connection from 192.168.188.34:55981 on port 1883.
+1713262113: Client <unknown> disconnected due to protocol error.
+1713262125: New connection from 192.168.188.34:55984 on port 1883.
+1713262125: New connection from 192.168.188.34:55985 on port 1883.
+1713262125: Client <unknown> disconnected due to protocol error.
+1713262125: Client <unknown> disconnected due to protocol error.
+1713262125: New connection from 192.168.188.34:55986 on port 1883.
+1713262125: Client <unknown> disconnected due to protocol error.
+1713262125: New connection from 192.168.188.34:55987 on port 1883.
+1713262125: Client <unknown> disconnected due to protocol error.
+1713262126: New connection from 192.168.188.34:55988 on port 1883.
+1713262126: New connection from 192.168.188.34:55989 on port 1883.
+1713262126: Client <unknown> disconnected due to protocol error.
+1713262126: Client <unknown> disconnected due to protocol error.
+1713262126: New connection from 192.168.188.34:55990 on port 1883.
+1713262126: New connection from 192.168.188.34:55991 on port 1883.
+1713262126: Client <unknown> disconnected due to protocol error.
+1713262126: Client <unknown> disconnected due to protocol error.
+1713262131: New connection from 192.168.188.34:55992 on port 1883.
+1713262131: Client <unknown> disconnected due to protocol error.
+1713262131: New connection from 192.168.188.34:55993 on port 1883.
+1713262131: Client <unknown> disconnected due to protocol error.
+1713262132: New connection from 192.168.188.34:55994 on port 1883.
+1713262132: Client <unknown> disconnected due to protocol error.
+1713262132: New connection from 192.168.188.34:55995 on port 1883.
+1713262132: Client <unknown> disconnected due to protocol error.
+1713262136: mosquitto version 2.0.18 terminating
+1713262136: Saving in-memory database to /mosquitto/data//mosquitto.db.
