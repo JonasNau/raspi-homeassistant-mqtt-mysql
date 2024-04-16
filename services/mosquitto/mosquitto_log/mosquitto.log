@@ -63,3 +63,10 @@
 1712824983: Client mqtt-explorer-82849ec5 disconnected.
 1712824996: Client nodered_5cf2fe6730898259 disconnected.
 1712825039: Client mqtt-explorer-73aff1f7 disconnected.
+1712825236: Client DVES_ABBFD4 has exceeded timeout, disconnecting.
+1712825405: Client mqtt-explorer-941f5ad7 disconnected.
+1712826606: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712828407: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712830208: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712833902: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1712835703: Saving in-memory database to /mosquitto/data//mosquitto.db.
